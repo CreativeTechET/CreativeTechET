@@ -5,9 +5,9 @@
 <h1>					 I am a web Application Developer Based in Ethiopia </h1>
 		
 <span>
-		<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47e2hoqyn69hsado7475th5ouexzzip46951qr0df7&rid=giphy.gif&ct=g" width="400"  />
+		<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47e2hoqyn69hsado7475th5ouexzzip46951qr0df7&rid=giphy.gif&ct=g"   />
 		<img width="50"></div>
-		<img src="https://media3.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e470qlmu12mvkq0p2f5oizttedgtbhql64bl4iayctk&rid=giphy.gif&ct=g"  width="400" height="300"/>
+		<img src="https://media3.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e470qlmu12mvkq0p2f5oizttedgtbhql64bl4iayctk&rid=giphy.gif&ct=g"   height="300"/>
 </span>
 <br/>
 <br/>
