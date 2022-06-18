@@ -3,10 +3,13 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
 
       <style>
-        /* your CSS */
+        h1{
+          color:red;
+          background-color:yellow;
+        }
       </style>
 
-      <!-- your HTML -->
+      <h1>Hello World </h1>
 
     </div>
   </foreignObject>
