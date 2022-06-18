@@ -44,12 +44,7 @@
       background-color: black;
       animation: random infinite 1s;
     }
-    .pic {
-      background-image: href(pic.png);
-      background-size: cover;
-      height: 500px;
-      width: 500px;
-    }
+    
     .greet {
       display: flex;
       align-items: center;
@@ -73,13 +68,7 @@
       font-size: 4em;
       animation: rotate infinite 1s;
     }
-    body {
-      background-image: url("https://i.pinimg.com/originals/63/7a/4d/637a4d42e1738853b2f96ffbbd60622a.gif");
-      background-repeat: no-repeat;
-      background-size: cover;
-      width: 100vw;
-      height: 100vh;
-    }
+    
     .container {
       display: flex;
       align-items: center;
