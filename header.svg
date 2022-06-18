@@ -44,22 +44,30 @@
       background-color: black;
       animation: random infinite 1s;
     }
+    .pic {
+      background-image: url(pic.png);
+      background-size: cover;
+      height: 500px;
+      width: 500px;
+    }
     .greet {
       display: flex;
       align-items: center;
       justify-content: center;
     }
-    .space{width: 20px;}
-    .contact{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-        padding: 0;
-        width: 100vw;
-        background-color: red;
-        height: 50px;
-        color: greenyellow;
+    .space {
+      width: 20px;
+    }
+    .contact {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 0;
+      width: 100vw;
+      background-color: red;
+      height: 50px;
+      color: greenyellow;
     }
     .emoji {
       font-size: 4em;
@@ -72,7 +80,11 @@
       width: 100vw;
       height: 100vh;
     }
-    .container{display: flex; align-items: center; justify-content: center;}
+    .container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
     @keyframes rotate {
       0% {
         transfor: rotate(0deg);
@@ -115,7 +127,7 @@
     <div class="typewriter">
       <h2>Web developer</h2>
       <div class="container">
-        <img src="/pic.png" alt="pic" /></div>
+        <div class="pic">jhvsjhdfvksvksdkjcvskj</div>
       </div>
     </div>
     <div class="contact">
