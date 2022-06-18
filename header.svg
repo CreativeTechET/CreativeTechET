@@ -2,7 +2,7 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
 
-       <style>
+            <style>
     .typewriter h2 {
       overflow: hidden; /* Ensures the content is not revealed until the animation */
       border-right: 0.15em solid orange; /* The typwriter cursor */
@@ -54,7 +54,7 @@
       font-size: 4em;
       animation: rotate infinite 1s;
     }
-    body {
+    bod {
       background-image: url("https://i.pinimg.com/originals/63/7a/4d/637a4d42e1738853b2f96ffbbd60622a.gif");
       background-repeat: no-repeat;
       background-size: cover;
@@ -90,7 +90,7 @@
       }
     }
   </style>
-  <body>
+  <bod>
     <div class="greet">
       <div class="emoji">👋</div>
       <h1 style="width: 20px"></h1>
@@ -120,7 +120,7 @@
     >
       <p>you can contact me @Buka_pitch</p>
     </div>
-  </body>
+  </bod>
 
     </div>
   </foreignObject>
