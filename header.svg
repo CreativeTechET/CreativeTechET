@@ -92,33 +92,16 @@
   <body>
     <div class="greet">
       <div class="emoji">👋</div>
-      <h1 style="width: 20px"></h1>
+      
       <h1>Hey There I am</h1>
-      <div style="width: 10px"></div>
+      
       <h1 class="name">Biruk Yonas</h1>
       <h1></h1>
     </div>
 
     <div class="typewriter">
       <h2>Web developer</h2>
-      <div style="display: flex; align-items: center; justify-content: center">
-        <!-- <div style="width: 100vw; background-color: red; height: 50px"></div> -->
-        <img src="pic.png" /></div>
-      </div>
-    </div>
-    <div
-      style="
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-        padding: 0;
-        width: 100vw;
-        background-color: red;
-        height: 50px;
-        color: greenyellow;
-      "
-    >
+      
       <p>you can contact me @Buka_pitch</p>
     </div>
   </body>
