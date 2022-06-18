@@ -36,6 +36,7 @@
       color: gold;
     }
     h2 {
+      background-color:purple;
       color: lightgoldenrodyellow;
       font-size: 2em;
       text-align: center;
