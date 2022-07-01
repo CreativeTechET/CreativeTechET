@@ -3,7 +3,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=CreativeTechET&theme=radical" alt="buka_pitch"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CreativeTechET&theme=gruvbox" alt="buka_pitch" />
-### :bar_chart: GitHub Status : 
+
 <p align="center">
 <h1>					 I am a web Application Developer Based in Ethiopia </h1>
 
