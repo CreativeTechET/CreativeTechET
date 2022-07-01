@@ -1,8 +1,6 @@
 <img src="header.svg" width="800" height="300">
 <div xmlns="http://www.w3.org/1999/xhtml">
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CreativeTechET&theme=radical" alt="buka_pitch"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CreativeTechET&theme=gruvbox" alt="buka_pitch" />
 
 
 <h1>					 I am a web Application Developer Based in Ethiopia </h1>
@@ -18,6 +16,8 @@
 <p>📫		you can reach me on Telegram @Buka_pitch </p>
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=CreativeTechET&theme=radical" alt="buka_pitch"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CreativeTechET&theme=gruvbox" alt="buka_pitch" />
 
 
 <!--
