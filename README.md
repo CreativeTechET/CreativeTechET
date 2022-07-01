@@ -1,4 +1,4 @@
-<img src="header.svg" width="800" height="400">
+<img src="header.svg" width="800" height="300">
 <div xmlns="http://www.w3.org/1999/xhtml">
 
 <img src="https://github-readme-stats.vercel.app/api?username=CreativeTechET&theme=radical" alt="buka_pitch"/>
