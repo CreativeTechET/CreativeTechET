@@ -14,13 +14,12 @@
 <p>📫		you can reach me on Telegram @Buka_pitch </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=CreativeTechET&theme=radical" alt="buka_pitch"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CreativeTechET&theme=gruvbox" alt="buka_pitch" />
+<img src="https://github-readme-stats.vercel.app/api?username=buka-pitch&theme=radical" alt="buka_pitch"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=buka-pitch&theme=gruvbox" alt="buka_pitch" />
 
-</p>
 <!--
 **CreativeTechET/CreativeTechET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
