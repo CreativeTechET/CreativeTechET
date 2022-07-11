@@ -26,10 +26,7 @@
 
 <br/>
 <br/>
-<span>
-		<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47e2hoqyn69hsado7475th5ouexzzip46951qr0df7&rid=giphy.gif&ct=g"  width="250" />
-		<img src="https://media3.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e470qlmu12mvkq0p2f5oizttedgtbhql64bl4iayctk&rid=giphy.gif&ct=g"   width="250" height="200"/>
-</span>
+
 <p>🌱	.  I Am Currently Learning Software enginnering @AAU also im Takng the ALX SOftware enginnering course</p>
 <p>🔭		Working on The Hospital Automation System with Yekatit Teams </p>
 <p>📫		you can reach me on Telegram @Buka_pitch </p>
