@@ -1,7 +1,8 @@
+
 <img src="header.svg" width="800" height="300">
 <div xmlns="http://www.w3.org/1999/xhtml">
 	<p align="center">
-<h1>					 I am a web Application Developer Based in Ethiopia </h1>
+<h1>					 I am a web Application Developer Based in Ethiopia </h1> 
 	</p>
 	<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -34,6 +35,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=buka-pitch&theme=radical" alt="buka_pitch"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=buka-pitch&theme=gruvbox" alt="buka_pitch" />
+
+![](https://komarev.com/ghpvc/?username=buka-pitch)
 
 <!--
 **CreativeTechET/CreativeTechET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
