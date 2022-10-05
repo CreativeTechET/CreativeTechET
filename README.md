@@ -36,7 +36,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=buka-pitch&theme=radical" alt="buka_pitch"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=buka-pitch&theme=gruvbox" alt="buka_pitch" />
-<a href="https://app.daily.dev/Buka"><img src="https://api.daily.dev/devcards/802ba6afc9c9407da481b1cb4ba8032a.png?r=zx5" width="400" alt="Biruk Yonas's Dev Card"/></a>
+
 
 ![](https://komarev.com/ghpvc/?username=buka-pitch)
 
