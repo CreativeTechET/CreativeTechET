@@ -2,7 +2,7 @@
 <img src="header.svg" width="800" height="300">
 <div xmlns="http://www.w3.org/1999/xhtml">
 	<p align="center">
-<h1>					 I am a web Application Developer Based in Ethiopia </h1> 
+<h1>					 I am a software Developer and cyber security enthusiastic Based in Ethiopia </h1> 
 	</p>
 	<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
